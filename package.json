@@ -1,6 +1,6 @@
 {
   "name": "browserview-resizing",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "electron": "^9.1.2"
+  "dependencies": {},
+  "repository": "git://github.com/Stephen-PP/browserview-resizing.git",
+  "devDependencies": {
+    "electron": "^9.2.0"
   }
 }
